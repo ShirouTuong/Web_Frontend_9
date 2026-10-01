@@ -4,3 +4,6 @@
 // Bài 2: 
 <img width="1298" height="997" alt="Screenshot 2026-10-01 233336" src="https://github.com/user-attachments/assets/7b68e4bb-152c-4138-9163-9c95acfc46b9" />
 <img width="1302" height="987" alt="image" src="https://github.com/user-attachments/assets/be1c88d1-f884-4f7e-a1a3-10821ebd6b31" />
+// Bài 3:
+<img width="1302" height="995" alt="Screenshot 2026-10-01 233919" src="https://github.com/user-attachments/assets/cab5c411-9307-4c77-857e-e6ed4a85f4c0" />
+
